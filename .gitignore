@@ -4,5 +4,6 @@
 *.p
 *.meta
 *.data*
-_pycache_/
+__pycache__/
+cifar-10-batches-py/
 .ipynb_checkpoints/
