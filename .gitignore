@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.zip
 *.gz
 *.pickle
@@ -8,3 +9,6 @@ __pycache__/
 embeddings/data
 cifar-10-batches-py/
 .ipynb_checkpoints/
+=======
+.DS_Store
+>>>>>>> 83f961dde70728737c95dbb73ee5acec76f60882
